@@ -1,0 +1,2 @@
+#!/bin/bash
+mdb-server/mdb-lookup-server mdb/med_db 9999
